@@ -22,7 +22,7 @@
     "pkg-up": "^2.0.0",
     "ramda": "^0.25.0",
     "read-pkg": "^5.0.0",
-    "semantic-release-plugin-decorators": "^3.0.0"
+    "semantic-release-plugin-decorators": "github:pmowrer/semantic-release-plugin-decorators#ec440ec"
   },
   "devDependencies": {
     "get-stream": "^6.0.1",
