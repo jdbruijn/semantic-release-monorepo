@@ -5474,6 +5474,10 @@ semantic-release-plugin-decorators@^3.0.0:
   resolved "https://registry.yarnpkg.com/semantic-release-plugin-decorators/-/semantic-release-plugin-decorators-3.0.1.tgz#961b5fec7e1ab113aa10aed5256ee7c3ee6804d9"
   integrity sha512-f5Qjvv/AJYByvkaj11a+05gQwfPwgQKo5OIhj8YVM2Dhf2rOPEOLD83jGrTdM7Nuf//sZYw77/cGUSVygUG9Kg==
 
+"semantic-release-plugin-decorators@github:pmowrer/semantic-release-plugin-decorators#ec440ec":
+  version "0.0.0-development"
+  resolved "https://codeload.github.com/pmowrer/semantic-release-plugin-decorators/tar.gz/ec440ec2e392ed69149c9081ccdb21d986fc6aac"
+
 semantic-release@^17.0.2:
   version "17.4.2"
   resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-17.4.2.tgz#b5147b5a629c227b7074ad4cc89920a14cb08c96"
